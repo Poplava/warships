@@ -1,0 +1,32 @@
+{
+  "name": "warships",
+  "version": "0.0.0",
+  "description": "warships game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Poplava/warships.git"
+  },
+  "keywords": [
+    "flux",
+    "react",
+    "webpack",
+    "express"
+  ],
+  "author": "Igor Poplavsky <igor.poplava@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Poplava/warships/issues"
+  },
+  "homepage": "https://github.com/Poplava/warships#readme",
+  "dependencies": {
+    "express": "^4.13.1",
+    "flux": "^2.0.3",
+    "node-libs-browser": "^0.5.2",
+    "react": "^0.13.3",
+    "webpack": "^1.10.1"
+  }
+}
